@@ -1,2 +1,3 @@
 This is an author record!!
-First record: Qin wrote txt
+First record: Qin wrote this text
+Second record: Ling wrote an essay!
